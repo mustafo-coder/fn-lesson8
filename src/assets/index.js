@@ -1,0 +1,7 @@
+export {default as MailImage} from './mail.svg'
+export {default as CardBG} from './card-bg.png'
+export {default as ClockImage} from './clock.svg'
+export {default as LocationImage} from './location.svg'
+export {default as Logo} from './logo.svg'
+export {default as Microsoft} from './microsoft.png'
+export {default as PhoneImage} from './phone.svg'
